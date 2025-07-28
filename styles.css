@@ -17,6 +17,9 @@ body {
 	background-color: #011e29;
 	color: white;
 	height: 60px;
+	width: 100%;
+	text-align: center;  
+	padding: 10px;       
 }
 
 .content-area {
@@ -33,6 +36,7 @@ body {
 	width: 200px;
 	border-radius: 10px;
 	box-sizing: border-box;
+	text-align: center;
 }
 
 .main-article {
