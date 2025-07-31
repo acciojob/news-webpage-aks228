@@ -17,6 +17,7 @@ body {
   color: white;
   height: 60px;
   border-radius: 5px;
+	  text-align: center;
 }
 
 .content-area {
